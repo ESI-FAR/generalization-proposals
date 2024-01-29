@@ -6,15 +6,16 @@ Best practices for Julia package development using COPIERTemplate.jl. (COPIERTem
 
 ## Project and call
 
-ESI-FAR.
+Call:ESI-FAR
+Budget: Generalisatie ESI-FAR (27020G21)
 
 ## Team
 
 Lead RSE: Abel Soares Siqueira
 
-Proposed composition of the team (Mention RSEs): ESI-FAR team.
+Proposed composition of the team (Mention RSEs): ESI-FAR team, including Sander, Ole, Suvayu
 
-Role of the SIT (software impact team): Who?
+Role of the SIT (software impact team): NA
 
 ## Expertise
 
@@ -26,7 +27,7 @@ Julia development. Package development best practices. Software quality best pra
 
 ## Start date
 
-Proposed start date: 01/March
+Proposed start date: 01 March 2024
 
 ## Duration
 
@@ -34,7 +35,7 @@ Proposed duration in months: 18 months.
 
 ## Embedding in the eScience Center
 
-Please indicate the names of the SH(s) and PM(s) this proposal was discussed with: Nico and Rena.
+Please indicate the names of the SH(s) and PM(s) this proposal was discussed with: Nicolas Renaud and Rena Bakhshi
 
 ## Earlier agreements
 
@@ -56,6 +57,8 @@ Finally, COPIERTemplate.jl has a GitHub workflow that automatically checks for u
 This project increases quality and sustainability for other packages in the Julia ecosystem.
 It is a template, so it reusable by default.
 The focus of our work will be increasing usability and dissemination of the software and of the best practices that it provides.
+
+Other eScience projects such as newly awarded SS 2023 project HP2SIM could benefit from this development.
 
 ## Scope
 
